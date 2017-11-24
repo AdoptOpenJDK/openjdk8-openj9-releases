@@ -17,7 +17,7 @@ Find all the prebuilt AdoptOpenJDK OpenJDK 8 with OpenJ9 release binaries [here]
 
 ## Built Platforms
 
-As of 22th of November 2017 the built platforms are:
+As of 22nd of November 2017 the built platforms are:
 
 1. Linux x64
 1. Linux ppc64le
