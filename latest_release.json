@@ -58,7 +58,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 116,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2018-01-03T17:19:29Z",
       "updated_at": "2018-01-03T17:19:29Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_ppc64le_Linux_jdk8u152-b16.sha256.txt"
@@ -186,7 +186,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 114,
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2018-01-03T17:19:37Z",
       "updated_at": "2018-01-03T17:19:37Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_s390x_Linux_jdk8u152-b16.sha256.txt"
@@ -250,7 +250,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 112,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2018-01-03T17:19:44Z",
       "updated_at": "2018-01-03T17:19:44Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_x64_Linux_jdk8u152-b16.sha256.txt"
