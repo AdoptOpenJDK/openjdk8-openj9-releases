@@ -219,7 +219,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 83561879,
-        "download_count": 32,
+        "download_count": 33,
         "created_at": "2018-01-03T17:19:37Z",
         "updated_at": "2018-01-03T17:19:44Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_s390x_Linux_jdk8u152-b16.tar.gz"
