@@ -1,10 +1,10 @@
 [
   {
-    "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/9096157",
-    "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/9096157/assets",
-    "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/9096157/assets{?name,label}",
+    "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/9465364",
+    "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/9465364/assets",
+    "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/9465364/assets{?name,label}",
     "html_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/tag/jdk8u152-b16",
-    "id": 9096157,
+    "id": 9465364,
     "tag_name": "jdk8u152-b16",
     "target_commitish": "master",
     "name": "jdk8u152-b16",
@@ -29,12 +29,12 @@
       "site_admin": false
     },
     "prerelease": false,
-    "created_at": "2018-01-03T16:25:42Z",
-    "published_at": "2018-01-03T17:19:18Z",
+    "created_at": "2018-01-31T11:35:45Z",
+    "published_at": "2018-01-31T11:41:36Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773169",
-        "id": 5773169,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042626",
+        "id": 6042626,
         "name": "OpenJDK8-OPENJ9_ppc64le_Linux_jdk8u152-b16.sha256.txt",
         "label": "",
         "uploader": {
@@ -59,14 +59,14 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 116,
-        "download_count": 143,
-        "created_at": "2018-01-03T17:19:29Z",
-        "updated_at": "2018-01-03T17:19:29Z",
+        "download_count": 0,
+        "created_at": "2018-01-31T11:41:45Z",
+        "updated_at": "2018-01-31T11:41:45Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_ppc64le_Linux_jdk8u152-b16.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773170",
-        "id": 5773170,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042627",
+        "id": 6042627,
         "name": "OpenJDK8-OPENJ9_ppc64le_Linux_jdk8u152-b16.tar.gz",
         "label": "",
         "uploader": {
@@ -90,15 +90,15 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 82572206,
-        "download_count": 48,
-        "created_at": "2018-01-03T17:19:30Z",
-        "updated_at": "2018-01-03T17:19:37Z",
+        "size": 82633395,
+        "download_count": 0,
+        "created_at": "2018-01-31T11:41:45Z",
+        "updated_at": "2018-01-31T11:41:51Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_ppc64le_Linux_jdk8u152-b16.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773167",
-        "id": 5773167,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042624",
+        "id": 6042624,
         "name": "OpenJDK8-OPENJ9_ppc64_AIX_jdk8u152-b16.sha256.txt",
         "label": "",
         "uploader": {
@@ -124,13 +124,13 @@
         "state": "uploaded",
         "size": 112,
         "download_count": 0,
-        "created_at": "2018-01-03T17:19:19Z",
-        "updated_at": "2018-01-03T17:19:19Z",
+        "created_at": "2018-01-31T11:41:37Z",
+        "updated_at": "2018-01-31T11:41:37Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_ppc64_AIX_jdk8u152-b16.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773168",
-        "id": 5773168,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042625",
+        "id": 6042625,
         "name": "OpenJDK8-OPENJ9_ppc64_AIX_jdk8u152-b16.tar.gz",
         "label": "",
         "uploader": {
@@ -154,15 +154,15 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 87136584,
-        "download_count": 2,
-        "created_at": "2018-01-03T17:19:19Z",
-        "updated_at": "2018-01-03T17:19:29Z",
+        "size": 87206590,
+        "download_count": 0,
+        "created_at": "2018-01-31T11:41:38Z",
+        "updated_at": "2018-01-31T11:41:44Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_ppc64_AIX_jdk8u152-b16.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773171",
-        "id": 5773171,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042629",
+        "id": 6042629,
         "name": "OpenJDK8-OPENJ9_s390x_Linux_jdk8u152-b16.sha256.txt",
         "label": "",
         "uploader": {
@@ -187,14 +187,14 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 114,
-        "download_count": 142,
-        "created_at": "2018-01-03T17:19:37Z",
-        "updated_at": "2018-01-03T17:19:37Z",
+        "download_count": 0,
+        "created_at": "2018-01-31T11:41:51Z",
+        "updated_at": "2018-01-31T11:41:52Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_s390x_Linux_jdk8u152-b16.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773172",
-        "id": 5773172,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042630",
+        "id": 6042630,
         "name": "OpenJDK8-OPENJ9_s390x_Linux_jdk8u152-b16.tar.gz",
         "label": "",
         "uploader": {
@@ -218,15 +218,15 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 83561879,
-        "download_count": 36,
-        "created_at": "2018-01-03T17:19:37Z",
-        "updated_at": "2018-01-03T17:19:44Z",
+        "size": 83622174,
+        "download_count": 0,
+        "created_at": "2018-01-31T11:41:52Z",
+        "updated_at": "2018-01-31T11:42:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_s390x_Linux_jdk8u152-b16.tar.gz"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773173",
-        "id": 5773173,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042631",
+        "id": 6042631,
         "name": "OpenJDK8-OPENJ9_x64_Linux_jdk8u152-b16.sha256.txt",
         "label": "",
         "uploader": {
@@ -251,14 +251,14 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 112,
-        "download_count": 148,
-        "created_at": "2018-01-03T17:19:44Z",
-        "updated_at": "2018-01-03T17:19:44Z",
+        "download_count": 0,
+        "created_at": "2018-01-31T11:42:00Z",
+        "updated_at": "2018-01-31T11:42:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_x64_Linux_jdk8u152-b16.sha256.txt"
       },
       {
-        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/5773174",
-        "id": 5773174,
+        "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk8-openj9-releases/releases/assets/6042632",
+        "id": 6042632,
         "name": "OpenJDK8-OPENJ9_x64_Linux_jdk8u152-b16.tar.gz",
         "label": "",
         "uploader": {
@@ -282,10 +282,10 @@
         },
         "content_type": "application/gzip",
         "state": "uploaded",
-        "size": 82458401,
-        "download_count": 189,
-        "created_at": "2018-01-03T17:19:45Z",
-        "updated_at": "2018-01-03T17:19:51Z",
+        "size": 82499873,
+        "download_count": 0,
+        "created_at": "2018-01-31T11:42:01Z",
+        "updated_at": "2018-01-31T11:42:07Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_x64_Linux_jdk8u152-b16.tar.gz"
       }
     ],
