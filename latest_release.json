@@ -218,7 +218,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 83561879,
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2018-01-03T17:19:37Z",
       "updated_at": "2018-01-03T17:19:44Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_s390x_Linux_jdk8u152-b16.tar.gz"
@@ -282,7 +282,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 82458401,
-      "download_count": 187,
+      "download_count": 188,
       "created_at": "2018-01-03T17:19:45Z",
       "updated_at": "2018-01-03T17:19:51Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u152-b16/OpenJDK8-OPENJ9_x64_Linux_jdk8u152-b16.tar.gz"
