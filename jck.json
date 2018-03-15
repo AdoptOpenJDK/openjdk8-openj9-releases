@@ -1,5 +1,5 @@
 {
-  "jdk8u152-b16": {
-    "PPC64LE_LINUX": "true"
+  "jdk8u162-b12_openj9-0.8.0": {
+    "X64_LINUX": "true"
   }
 }
