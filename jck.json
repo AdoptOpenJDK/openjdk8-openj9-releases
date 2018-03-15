@@ -1,5 +1,7 @@
 {
   "jdk8u162-b12_openj9-0.8.0": {
-    "X64_LINUX": "true"
+    "X64_LINUX": "true",
+    "PPC64LE_LINUX": "true",
+    "S390X_LINUX": "true"
   }
 }
