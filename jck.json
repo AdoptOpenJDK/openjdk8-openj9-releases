@@ -3,5 +3,13 @@
     "X64_LINUX": "true",
     "PPC64LE_LINUX": "true",
     "S390X_LINUX": "true"
+  },
+  "jdk8u181-b13_openj9-0.9.0": {
+    "X64_LINUX": "true",
+    "X64_LINUXLH": "true",
+    "PPC64LE_LINUX": "true",
+    "S390X_LINUX": "true",
+    "X64_WIN": "true",
+    "X32_WIN": "true"
   }
 }
