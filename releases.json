@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-08-14T22:14:57Z",
         "updated_at": "2018-08-14T22:14:57Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_ppc64le_Linux_jdk8u181-b13.sha256.txt"
@@ -199,7 +199,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-08-14T22:15:12Z",
         "updated_at": "2018-08-14T22:15:12Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_s390x_Linux_jdk8u181-b13.sha256.txt"
@@ -403,7 +403,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2018-08-14T22:15:39Z",
         "updated_at": "2018-08-14T22:15:39Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_Linux_jdk8u181-b13.sha256.txt"
@@ -505,7 +505,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 88873064,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2018-08-14T22:15:54Z",
         "updated_at": "2018-08-14T22:16:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_Windows_jdk8u181-b13.zip"
@@ -1333,7 +1333,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 82573385,
-        "download_count": 2959,
+        "download_count": 2963,
         "created_at": "2018-03-15T12:12:58Z",
         "updated_at": "2018-03-15T12:13:07Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u162-b12_openj9-0.8.0/OpenJDK8-OPENJ9_x64_Linux_jdk8u162-b12_openj9-0.8.0.tar.gz"
