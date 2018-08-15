@@ -266,7 +266,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 111,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-08-14T22:15:20Z",
       "updated_at": "2018-08-14T22:15:20Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x32_Windows_jdk8u181-b13.sha256.txt"
@@ -300,7 +300,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 87614682,
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2018-08-14T22:15:20Z",
       "updated_at": "2018-08-14T22:15:39Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x32_Windows_jdk8u181-b13.zip"
@@ -334,7 +334,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 107,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-08-14T22:15:46Z",
       "updated_at": "2018-08-14T22:15:46Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_LinuxLH_jdk8u181-b13.sha256.txt"
@@ -368,7 +368,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 88439461,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-08-14T22:15:47Z",
       "updated_at": "2018-08-14T22:15:54Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_LinuxLH_jdk8u181-b13.tar.gz"
@@ -402,7 +402,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 105,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-08-14T22:15:39Z",
       "updated_at": "2018-08-14T22:15:39Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_Linux_jdk8u181-b13.sha256.txt"
@@ -436,7 +436,7 @@
       "content_type": "application/gzip",
       "state": "uploaded",
       "size": 88509704,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-08-14T22:15:40Z",
       "updated_at": "2018-08-14T22:15:46Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_Linux_jdk8u181-b13.tar.gz"
@@ -470,7 +470,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 111,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-08-14T22:15:54Z",
       "updated_at": "2018-08-14T22:15:54Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_Windows_jdk8u181-b13.sha256.txt"
@@ -504,7 +504,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 88873064,
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2018-08-14T22:15:54Z",
       "updated_at": "2018-08-14T22:16:00Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk8-openj9-releases/releases/download/jdk8u181-b13/OpenJDK8-OPENJ9_x64_Windows_jdk8u181-b13.zip"
