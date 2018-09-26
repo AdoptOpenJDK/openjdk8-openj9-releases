@@ -2,10 +2,10 @@
 Eclipse openj9 release repo
 
 This repository is for publishing releases of OpenJDK 8 with OpenJ9 (an enhanced JVM replacement for HotSpot).
-(http://openjdk.java.net)
-(http://https://github.com/eclipse/openj9)
+(https://openjdk.java.net)
+(https://github.com/eclipse/openj9)
 
-These binaries are built on a shared CI infrastructure (see http://ci.adoptopenjdk.net) using an openly shared build tool chain (see https://github.com/AdoptOpenJDK/openjdk-build)
+These binaries are built on a shared CI infrastructure (see https://ci.adoptopenjdk.net) using an openly shared build tool chain (see https://github.com/AdoptOpenJDK/openjdk-build)
 
 ## WARNING: THESE ARE NOT FOR PRODUCTION USE
 
@@ -36,4 +36,4 @@ The AdoptOpenJDK OpenJDK build community plans to also add the following platfor
 
 ## How to get involved
 
-Join the mailing list at: http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
+Join the mailing list at: https://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
