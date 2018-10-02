@@ -13,5 +13,5 @@ These binaries are built on a shared CI infrastructure (see https://ci.adoptopen
 
 # How to get involved
 
-Join the slack: https://www.adoptopenjdk.net/slack.html
+Join the slack: https://www.adoptopenjdk.net/slack.html  
 Join the mailing list at: https://mail.openjdk.java.net/mailman/listinfo/adoption-discuss
